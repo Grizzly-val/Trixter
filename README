@@ -1,0 +1,43 @@
+!!  This is Trixter Lanz C. Donatos' Portfolio Website Built with HTML & CSS !!
+Featuring SDG 4: Quality Education
+
+Parts of my Portfolio Website:
+    1. My Introduction
+        a. Who am I?
+        b. Age
+        c. personal tagline
+        d. Contact Information
+        e. Link to my socials (Social Media Icons)
+    2. My featured SDG under the quote "Education Promotes Livelihood"
+        a. About the SDG
+        b. My Education
+    3. Skills and Experties
+        a. Software/Web Development
+        b. Digital Creation
+    4. Projects
+        a. Programming Projects (Link to my GitHub)
+        b. Digital Creations (Digital Drawings/Graphic Designs)
+    5. Link to my Drive and TikTok Account for my Digital Creation Projects
+
+
+I separated each parts into divs and combined the divs that are next to each other.
+--I combined my Introduction and Contact Information using a div tag under container1-2 class.
+--I also combined my skills and programming projects using a div tag under container 4-5 class.
+--div3 is the tag for the section where I put my featured SDG.
+
+
+I Included a link to my:
+    Personal Use Social Media Accounts:
+        Facebook Profile
+        YouTube Channel
+        X Profile
+    Projects:
+        Github Repositories:
+            Visual Basic Studio
+            C++
+            Python
+        Digital Creations:
+            Digital Drawing/Graphic Design:
+                Google Drive
+            Video Creations:
+                TikTok Profile
